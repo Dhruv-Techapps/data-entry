@@ -1,0 +1,7 @@
+- name: Home
+  link: /
+- name: Documentaion
+  link: /docs/getting-started
+  menu: docs
+- name: Blog
+  link: /blog
