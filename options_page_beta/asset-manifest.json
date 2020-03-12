@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://getdataentry.com/options_page_beta/static/css/main.9c39e9cc.chunk.css",
-    "main.js": "https://getdataentry.com/options_page_beta/static/js/main.d5c83c4d.chunk.js",
-    "main.js.map": "https://getdataentry.com/options_page_beta/static/js/main.d5c83c4d.chunk.js.map",
+    "main.js": "https://getdataentry.com/options_page_beta/static/js/main.b59873ae.chunk.js",
+    "main.js.map": "https://getdataentry.com/options_page_beta/static/js/main.b59873ae.chunk.js.map",
     "runtime-main.js": "https://getdataentry.com/options_page_beta/static/js/runtime-main.ab7f9d9b.js",
     "runtime-main.js.map": "https://getdataentry.com/options_page_beta/static/js/runtime-main.ab7f9d9b.js.map",
     "static/js/2.df329942.chunk.js": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js",
     "static/js/2.df329942.chunk.js.map": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js.map",
     "index.html": "https://getdataentry.com/options_page_beta/index.html",
-    "precache-manifest.e045b00484d9dcebabd136ff8f8e208a.js": "https://getdataentry.com/options_page_beta/precache-manifest.e045b00484d9dcebabd136ff8f8e208a.js",
+    "precache-manifest.6a872ad7b6d4bd69515b24d673c5973d.js": "https://getdataentry.com/options_page_beta/precache-manifest.6a872ad7b6d4bd69515b24d673c5973d.js",
     "service-worker.js": "https://getdataentry.com/options_page_beta/service-worker.js",
     "static/css/main.9c39e9cc.chunk.css.map": "https://getdataentry.com/options_page_beta/static/css/main.9c39e9cc.chunk.css.map",
     "static/js/2.df329942.chunk.js.LICENSE.txt": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ab7f9d9b.js",
     "static/js/2.df329942.chunk.js",
     "static/css/main.9c39e9cc.chunk.css",
-    "static/js/main.d5c83c4d.chunk.js"
+    "static/js/main.b59873ae.chunk.js"
   ]
 }
