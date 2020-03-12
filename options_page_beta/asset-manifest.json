@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.9c39e9cc.chunk.css",
-    "main.js": "./static/js/main.fadcfff2.chunk.js",
-    "main.js.map": "./static/js/main.fadcfff2.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.e9139302.js",
-    "runtime-main.js.map": "./static/js/runtime-main.e9139302.js.map",
-    "static/js/2.df329942.chunk.js": "./static/js/2.df329942.chunk.js",
-    "static/js/2.df329942.chunk.js.map": "./static/js/2.df329942.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.890f14b27624b9ccf8936ca7bd340125.js": "./precache-manifest.890f14b27624b9ccf8936ca7bd340125.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.9c39e9cc.chunk.css.map": "./static/css/main.9c39e9cc.chunk.css.map",
-    "static/js/2.df329942.chunk.js.LICENSE.txt": "./static/js/2.df329942.chunk.js.LICENSE.txt",
-    "static/media/bars.f542bc97.svg": "./static/media/bars.f542bc97.svg",
-    "static/media/code.9c1691a2.svg": "./static/media/code.9c1691a2.svg",
-    "static/media/cog.95fbf42e.svg": "./static/media/cog.95fbf42e.svg",
-    "static/media/minus-circle.306b4ca7.svg": "./static/media/minus-circle.306b4ca7.svg",
-    "static/media/plus-circle.df9f4c9d.svg": "./static/media/plus-circle.df9f4c9d.svg"
+    "main.css": "https://getdataentry.com/options_page_beta/static/css/main.9c39e9cc.chunk.css",
+    "main.js": "https://getdataentry.com/options_page_beta/static/js/main.d5c83c4d.chunk.js",
+    "main.js.map": "https://getdataentry.com/options_page_beta/static/js/main.d5c83c4d.chunk.js.map",
+    "runtime-main.js": "https://getdataentry.com/options_page_beta/static/js/runtime-main.ab7f9d9b.js",
+    "runtime-main.js.map": "https://getdataentry.com/options_page_beta/static/js/runtime-main.ab7f9d9b.js.map",
+    "static/js/2.df329942.chunk.js": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js",
+    "static/js/2.df329942.chunk.js.map": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js.map",
+    "index.html": "https://getdataentry.com/options_page_beta/index.html",
+    "precache-manifest.e045b00484d9dcebabd136ff8f8e208a.js": "https://getdataentry.com/options_page_beta/precache-manifest.e045b00484d9dcebabd136ff8f8e208a.js",
+    "service-worker.js": "https://getdataentry.com/options_page_beta/service-worker.js",
+    "static/css/main.9c39e9cc.chunk.css.map": "https://getdataentry.com/options_page_beta/static/css/main.9c39e9cc.chunk.css.map",
+    "static/js/2.df329942.chunk.js.LICENSE.txt": "https://getdataentry.com/options_page_beta/static/js/2.df329942.chunk.js.LICENSE.txt",
+    "static/media/bars.f542bc97.svg": "https://getdataentry.com/options_page_beta/static/media/bars.f542bc97.svg",
+    "static/media/code.9c1691a2.svg": "https://getdataentry.com/options_page_beta/static/media/code.9c1691a2.svg",
+    "static/media/cog.95fbf42e.svg": "https://getdataentry.com/options_page_beta/static/media/cog.95fbf42e.svg",
+    "static/media/minus-circle.306b4ca7.svg": "https://getdataentry.com/options_page_beta/static/media/minus-circle.306b4ca7.svg",
+    "static/media/plus-circle.df9f4c9d.svg": "https://getdataentry.com/options_page_beta/static/media/plus-circle.df9f4c9d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9139302.js",
+    "static/js/runtime-main.ab7f9d9b.js",
     "static/js/2.df329942.chunk.js",
     "static/css/main.9c39e9cc.chunk.css",
-    "static/js/main.fadcfff2.chunk.js"
+    "static/js/main.d5c83c4d.chunk.js"
   ]
 }
